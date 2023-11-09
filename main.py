@@ -12,6 +12,7 @@ async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 #Responses
 
 def handle_response(text: str) -> str:
+    #build here my logic
     return 'blablabla'
 
 async def handle_massage(update: Update, context: ContextTypes.DEFAULT_TYPE):
